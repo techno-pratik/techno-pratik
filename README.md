@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @techno-pratik
 - 👀 I’m interested in software development and cloud computing 
-- 🌱 I’m currently learning JAVA, Data structures and algorithm 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA, Data structures and algorithm
 - 📫 How to reach me bargepratik0202@gmail.com 
 
 <!---
